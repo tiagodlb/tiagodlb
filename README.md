@@ -22,11 +22,9 @@ const tiago = {
 
 #### Talk to me :)
 - :envelope: **Email:** tiaoglb@gmail.com
-<br>
--  <a href="https://www.linkedin.com/in/tiagodlb/">
+- <a href="https://www.linkedin.com/in/tiagodlb/">
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue" height="26px" />
   </a>
-</br>
 
 ##### Some of the tools and languages that I use
 
